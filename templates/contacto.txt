@@ -1,0 +1,1 @@
+Mensaje de {{ nombre }} con el email {{ email }} y el mensaje es: {{ mensaje }}
